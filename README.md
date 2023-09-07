@@ -184,9 +184,9 @@ Product Engineers emphasize the entire user experience, blending frontend, backe
     3. [Passport](https://www.passportjs.org/)
 15. Observability
     1. [OpenTelemetry](https://opentelemetry.io/)
-    2. [DataDog](https://vercel.com/integrations/datadog)https://vercel.com/integrations/datadog
-    3. [New Relic](https://github.com/newrelic/newrelic-node-nextjs)https://github.com/newrelic/newrelic-node-nextjs
-    4. [Sentry](https://docs.sentry.io/platforms/javascript/guides/nextjs/)https://docs.sentry.io/platforms/javascript/guides/nextjs/  
+    2. [DataDog](https://vercel.com/integrations/datadog)
+    3. [New Relic](https://github.com/newrelic/newrelic-node-nextjs)
+    4. [Sentry](https://docs.sentry.io/platforms/javascript/guides/nextjs/)
 
 
 ## 🚦 Wrap Up
