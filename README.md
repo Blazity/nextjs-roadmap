@@ -29,7 +29,7 @@ Product Engineers emphasize the entire user experience, blending frontend, backe
 
 ## Roadmap
 
-![Next js Roadmap - Frame 1](https://github.com/Blazity/nextjs-roadmap/assets/28964599/093f913d-9254-472b-86c3-8d75782a9b62)
+![Next js Roadmap - Frame 1 (1)](https://github.com/Blazity/nextjs-roadmap/assets/28964599/4715a75e-7bc2-4a29-ad43-9f8b693967ab)
 
 ## Resources
 
