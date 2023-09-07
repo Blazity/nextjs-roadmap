@@ -6,8 +6,8 @@
   <p align="center">
       <a href="https://twitter.com/intent/tweet?text=https://github.com/Blazity/nextjs-roadmap Roadmap to becoming a Next.js Product Engineer in 2023" target="_blank"><img src="https://img.shields.io/badge/tweet-blue.svg?logo=twitter&logoColor=white" style="display: inherit;"/></a>
       <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/Blazity/nextjs-roadmap&mini=true&title=Roadmap%20to%20becoming%20Next.js%20Product%20Engineer%20in%202023" target="_blank"><img src="https://img.shields.io/badge/post-blue.svg?logo=linkedin&logoColor=white" style="display: inherit;"/></a>
-      <a href="https://blazity.com/"><img src="https://img.shields.io/badge/Next.js-Experts-yellowgreen.svg" style="display: inherit;"/></a>
-      <a href="https://blazity.com" target="_blank"><img alt="Blazity" src="https://img.shields.io/badge/Author-Blazity-green.svg" style="display: inherit;"/></a>
+      <a href="https://blazity.com/?utm_source=nexjsroadmap&utm_medium=github"><img src="https://img.shields.io/badge/Next.js-Experts-yellowgreen.svg" style="display: inherit;"/></a>
+      <a href="https://blazity.com/?utm_source=nexjsroadmap&utm_medium=github" target="_blank"><img alt="Blazity" src="https://img.shields.io/badge/Author-Blazity-green.svg" style="display: inherit;"/></a>
       <a href="https://opensource.org/licenses/MIT/" target="_blank"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg" style="display: inherit;"/></a>
   </p>
   <br>
@@ -17,7 +17,7 @@ Below you'll find a comprehensive roadmap showcasing the journey to becoming a p
 
 Stay in the loop! Give a [star :star:](https://github.com/Blazity/nextjs-roadmap/stargazers) and watch :eyes: the [GitHub Repo](https://github.com/Blazity/nextjs-roadmap) to get notified about fresh content and updates.
 
-If you're looking to [hire a Next.js specialist](https://blazity.com/#contact), drop us a message at [contact@blazity.com](mailto:contact@blazity.com).
+If you're looking to [hire a Next.js specialist](https://blazity.com/?utm_source=nexjsroadmap&utm_medium=github), drop us a message at [contact@blazity.com](mailto:contact@blazity.com).
 
 ## What does Platform Engineer mean?
 
