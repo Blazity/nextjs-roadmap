@@ -6,7 +6,7 @@
   <p align="center">
       <a href="https://twitter.com/intent/tweet?text=https://github.com/Blazity/nextjs-roadmap Roadmap to becoming a Next.js Product Engineer in 2023" target="_blank"><img src="https://img.shields.io/badge/tweet-blue.svg?logo=twitter&logoColor=white" style="display: inherit;"/></a>
       <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/Blazity/nextjs-roadmap&title=&summary=Roadmap to becoming a Next.js Product Engineer in 2023&source=" target="_blank"><img src="https://img.shields.io/badge/post-blue.svg?logo=linkedin&logoColor=white" style="display: inherit;"/></a>
-      <a href="https://github.com/Blazity/nextjs-roadmap"><img src="https://img.shields.io/badge/Next.js-Experts-yellowgreen.svg" style="display: inherit;"/></a>
+      <a href="https://blazity.com/"><img src="https://img.shields.io/badge/Next.js-Experts-yellowgreen.svg" style="display: inherit;"/></a>
       <a href="https://blazity.com" target="_blank"><img alt="Blazity" src="https://img.shields.io/badge/Author-Blazity-green.svg" style="display: inherit;"/></a>
       <a href="https://opensource.org/licenses/MIT/" target="_blank"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg" style="display: inherit;"/></a>
   </p>
