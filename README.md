@@ -1,3 +1,28 @@
+![Frame 1000002342](https://github.com/Blazity/nextjs-roadmap/assets/28964599/c645ec96-b0b1-44d3-96c0-989510310f09)
+
+<p align="center">
+  <h2 align="center">Next.js Product Engineer Roadmap</h2>
+  <p align="center">Roadmap to becoming a Next.js Product Engineer in 2023</p>
+  <p align="center">
+      <a href="https://twitter.com/intent/tweet?text=https://github.com/Blazity/nextjs-roadmap Roadmap to becoming a Next.js Product Engineer in 2023" target="_blank"><img src="https://img.shields.io/badge/tweet-blue.svg?logo=twitter&logoColor=white" style="display: inherit;"/></a>
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/Blazity/nextjs-roadmap&title=&summary=Roadmap to becoming a Next.js Product Engineer in 2023&source=" target="_blank"><img src="https://img.shields.io/badge/post-blue.svg?logo=linkedin&logoColor=white" style="display: inherit;"/></a>
+      <a href="https://github.com/Blazity/nextjs-roadmap"><img src="https://img.shields.io/badge/Next.js-Experts-yellowgreen.svg" style="display: inherit;"/></a>
+      <a href="https://blazity.com" target="_blank"><img alt="Blazity" src="https://img.shields.io/badge/Author-Blazity-green.svg" style="display: inherit;"/></a>
+      <a href="https://opensource.org/licenses/MIT/" target="_blank"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg" style="display: inherit;"/></a>
+  </p>
+  <br>
+</p>
+
+Below you'll find a comprehensive roadmap showcasing the journey to becoming a proficient Next.js Product Engineer in 2023. Initially designed for our team members at Blazity, we're thrilled to share this roadmap with the community to aid aspiring and seasoned developers alike.
+
+Stay in the loop! Give a [star :star:](https://github.com/Blazity/nextjs-roadmap/stargazers) and watch :eyes: the [GitHub Repo](https://github.com/Blazity/nextjs-roadmap) to get notified about fresh content and updates.
+
+If you're looking to [hire a Next.js specialist](https://blazity.com/#contact), drop us a message at [contact@blazity.com](mailto:contact@blazity.com).
+
+
+## Disclaimer
+
+> The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
 
 ![Next js Roadmap - Frame 1](https://github.com/Blazity/nextjs-roadmap/assets/28964599/093f913d-9254-472b-86c3-8d75782a9b62)
 
@@ -155,3 +180,15 @@
     2. [DataDog](https://vercel.com/integrations/datadog)https://vercel.com/integrations/datadog
     3. [New Relic](https://github.com/newrelic/newrelic-node-nextjs)https://github.com/newrelic/newrelic-node-nextjs
     4. [Sentry](https://docs.sentry.io/platforms/javascript/guides/nextjs/)https://docs.sentry.io/platforms/javascript/guides/nextjs/  
+
+
+## 🚦 Wrap Up
+
+Feel there's room for enhancement in any sections of the roadmap? Please consider opening a PR with your suggestions or flag any concerns via issues. We're committed to continuous improvement, so you might want to watch/star this repository for future updates.
+
+## 🙌 Contribution
+
+* Submit pull requests with improvements
+* Initiate discussions in issues
+* Share widely
+* Provide us with any feedback
