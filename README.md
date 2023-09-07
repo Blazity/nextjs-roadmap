@@ -19,12 +19,19 @@ Stay in the loop! Give a [star :star:](https://github.com/Blazity/nextjs-roadmap
 
 If you're looking to [hire a Next.js specialist](https://blazity.com/#contact), drop us a message at [contact@blazity.com](mailto:contact@blazity.com).
 
+## What does Platform Engineer mean?
+
+Product Engineers emphasize the entire user experience, blending frontend, backend, and design. Unlike "fullstack" developers, they have a broad, not deep, grasp of technologies, applying them to craft seamless products. They prioritize rapid deployment and user feedback. In the engineering spectrum, they focus on user-centric features. The industry is transitioning from the title "Fullstack Engineer" to "Product Engineer", highlighting a broader role than just coding.
 
 ## Disclaimer
 
 > The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
 
+## Roadmap
+
 ![Next js Roadmap - Frame 1](https://github.com/Blazity/nextjs-roadmap/assets/28964599/093f913d-9254-472b-86c3-8d75782a9b62)
+
+## Resources
 
 1. Fundamentals:
     1. **React**
