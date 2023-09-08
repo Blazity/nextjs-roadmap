@@ -1,4 +1,4 @@
-![Frame 1000002342](https://github.com/Blazity/nextjs-roadmap/assets/28964599/c645ec96-b0b1-44d3-96c0-989510310f09)
+![Frame 1000002342](https://github.com/Blazity/nextjs-roadmap/assets/28964599/216e8a13-12ec-45f9-8e59-1145f8d7db48)
 
 <p align="center">
   <h2 align="center">Next.js Product Engineer Roadmap</h2>
@@ -29,7 +29,7 @@ Product Engineers emphasize the entire user experience, blending frontend, backe
 
 ## Roadmap
 
-![Next js Roadmap - Frame 1 (1)](https://github.com/Blazity/nextjs-roadmap/assets/28964599/4715a75e-7bc2-4a29-ad43-9f8b693967ab)
+![Next js Roadmap - Frame 1 (1)](https://github.com/Blazity/nextjs-roadmap/assets/28964599/57797647-ba1f-4c5f-921b-717b6b1e8304)
 
 ## Resources
 
