@@ -19,7 +19,7 @@ Stay in the loop! Give a [star :star:](https://github.com/Blazity/nextjs-roadmap
 
 If you're looking to [hire a Next.js specialist](https://blazity.com/?utm_source=nexjsroadmap&utm_medium=github), drop us a message at [contact@blazity.com](mailto:contact@blazity.com).
 
-## What does Platform Engineer mean?
+## What does Product Engineer mean?
 
 Product Engineers emphasize the entire user experience, blending frontend, backend, and design. Unlike "fullstack" developers, they have a broad, not deep, grasp of technologies, applying them to craft seamless products. They prioritize rapid deployment and user feedback. In the engineering spectrum, they focus on user-centric features. The industry is transitioning from the title "Fullstack Engineer" to "Product Engineer", highlighting a broader role than just coding.
 
